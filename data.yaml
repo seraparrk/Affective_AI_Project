@@ -1,0 +1,26 @@
+names:
+- BackgroundImage
+- Bottom_Navigation
+- Card
+- CheckBox
+- Checkbox
+- CheckedTextView
+- Drawer
+- EditText
+- Icon
+- Image
+- Map
+- Modal
+- Multi_Tab
+- PageIndicator
+- Remember
+- Spinner
+- Switch
+- Text
+- TextButton
+- Toolbar
+- UpperTaskBar
+- Button
+nc: 22
+train: /home/serapark/projects/yolo_project/vins_detection/images/train
+val: /home/serapark/projects/yolo_project/vins_detection/images/val
