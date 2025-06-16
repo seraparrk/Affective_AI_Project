@@ -6,7 +6,8 @@ Our work helps designers supplement the perspective of a new design space, and t
 
 ## 📊 Dataset
 - VINS: Visual Search for Mobile User Interface Design(https://github.com/sbunian/VINS)
-  - training : 3,580 / validation : 963
+  - Total: 4,543
+  - Training: 3,580 / Validation: 963
 
 ## ✨ Key Features
 - YOLOv8: Detects UI elements in user interfaces
