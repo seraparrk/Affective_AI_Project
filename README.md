@@ -24,20 +24,22 @@ python -m ipykernel install --user --name=yolo8 --display-name "Python (yolo8)"
 ```
 
 ## 📂 Folder structure
-VINS_DETECTION/
-├── vins_detection.ipynb         
-├── ui_result.jpg                
-├── yolov8n.pt          
-├── yolov11n.pt                
-│
-├── images/                   
-├── labels/                      
-├── labels_all/                
-│
-├── runs/
-│   └── detect/               
-│
-└── data.yaml  
+```
+├── VINS_DETECTION
+│   └── vins_detection.ipynb  
+│   └── ui_result.jpg   
+│   └── yolov8n.pt 
+│   └── yolov11n.pt 
+│ 
+│   └── images/   
+│   └── labels/     
+│   └── labels_all/     
+│ 
+│   └── runs/
+        └── detect/   
+│ 
+│   └── data.yaml 
+```
 
 ## 💻 Code
 - The main implementation is provided in `vins_detection.ipynb`
