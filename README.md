@@ -13,5 +13,6 @@ Our work helps designers supplement the perspective of a new design space, and t
 - YOLOv8: Detects UI elements in user interfaces
 - OpenCV: Extracts edge types (sharp-angled/curved) and color palettes based on hue-pie classification
 
+## Result
 <img src = "https://github.com/user-attachments/assets/fbceef45-cb95-4a02-a66f-a59a9c851b71">
 
