@@ -16,5 +16,6 @@ Our work helps designers supplement the perspective of a new design space, and t
 ## Result
 - The total of mAP is 77.1%
 <img src = "https://github.com/user-attachments/assets/cd365f47-9bc0-48ae-8a8c-23eab8b95e30">
+
 - The types of elements with confidence score, edge types, and colors
 <img src = "https://github.com/user-attachments/assets/fbceef45-cb95-4a02-a66f-a59a9c851b71">
